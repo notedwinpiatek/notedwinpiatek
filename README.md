@@ -36,4 +36,4 @@ Curious to see more of my work? Check out my portfolio website [here][website]. 
 
 [website]: https://edwinpiatek.myportfolio.com/
 [youtube]: https://www.youtube.com/@edwin_piatek
-[github]: https://github.com/edwinpiatek?tab=followers
+[github]: https://github.com/notedwinpiatek?tab=followers

@@ -8,7 +8,7 @@ Hey there! 👋 I'm Edwin Piątek, a 21-year-old software development student wi
 
 In the bustling world of software development, I thrive on the thrill of problem-solving and the beauty of elegant code. But beyond the screen, I'm a storyteller at heart. Through my lens, I capture slices of life, weaving narratives that resonate with audiences worldwide.
 
-When I'm not immersed in lines of code or framing the perfect shot, you'll find me sharing my adventures on YouTube. Join over 500 subscribers on my channel "[Edwin Piątek][youtube]," where I document my journey, one vlog at a time.
+When I'm not immersed in lines of code or framing the perfect shot, you'll find me sharing my adventures on YouTube. Join over 20 subscribers on my channel "[Edwin Piątek][youtube]," where I document my journey, one vlog at a time.
 
 ### 🚀 Let's Connect
 

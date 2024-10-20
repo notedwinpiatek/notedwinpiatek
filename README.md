@@ -35,5 +35,5 @@ My toolkit is diverse, reflecting my eclectic interests and skills:
 Curious to see more of my work? Check out my portfolio website [here][website]. Let's collaborate and bring your digital dreams to life!
 
 [website]: https://edwinpiatek.myportfolio.com/
-[youtube]: https://www.youtube.com/@edwin_piatek?sub_confirmation=1
+[youtube]: https://www.youtube.com/@edwin_friday?sub_confirmation=1
 [github]: https://github.com/notedwinpiatek?tab=followers

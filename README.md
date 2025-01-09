@@ -1,19 +1,16 @@
 # 🎥 Edwin Piątek
 
-**`Digital Creator (Developer/Filmmaker/Creator)`**
+**`Software Development Student`**
 
-Hey there! 👋 I'm Edwin Piątek, a 21-year-old software development student with an insatiable appetite for creativity in the digital realm. I wear multiple hats: a developer by day, a filmmaker by night, and a content creator around the clock. Join me on a journey where code meets creativity, and pixels paint stories.
 
 ### 🌟 About Me
-
-In the bustling world of software development, I thrive on the thrill of problem-solving and the beauty of elegant code. But beyond the screen, I'm a storyteller at heart. Through my lens, I capture slices of life, weaving narratives that resonate with audiences worldwide.
-
-When I'm not immersed in lines of code or framing the perfect shot, you'll find me sharing my adventures on YouTube. Join over 20 subscribers on my channel "[Edwin Piątek][youtube]," where I document my journey, one vlog at a time.
+Hey there! 👋 I'm Edwin
+I'm 21yo student of Software Development in Poland trying my best to code something cool but at the same time I want to have fun with that. That's why when I'm not learning how to code, you'll find me sharing my adventures on YouTube."[Edwin 'Maffi' Piątek][youtube]," where I vlog my life.
 
 ### 🚀 Let's Connect
 
 - 📹 **YouTube:** [Subscribe][youtube]
-- 💼 **GitHub:** [Follow][github]
+- 📸 **Instagram:** [Follow][instagram]
 
 ### 🧰 Languages and Tools
 
@@ -30,10 +27,5 @@ My toolkit is diverse, reflecting my eclectic interests and skills:
 
 <br />
 
-### 🌐 Explore More
-
-Curious to see more of my work? Check out my portfolio website [here][website]. Let's collaborate and bring your digital dreams to life!
-
-[website]: https://edwinpiatek.myportfolio.com/
 [youtube]: https://www.youtube.com/@edwin_friday?sub_confirmation=1
-[github]: https://github.com/notedwinpiatek?tab=followers
+[instagram]: https://www.instagram.com/edwin_piatek/

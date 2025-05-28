@@ -5,7 +5,7 @@
 
 ### 🌟 About Me
 Hey there! 👋 I'm Edwin
-I'm a 22-year-old student of Software Development in Poland, trying my best to code something cool, but at the same time, I want to have fun with that. That's why when I'm not learning how to code, you'll find me sharing my adventures on YouTube."[Edwin Friday][youtube]," where I vlog my life.
+I'm a 22-year-old student of Software Development in Poland, trying my best to code something cool, but at the same time, I want to have fun with that. That's why when I'm not learning how to code, you'll find me sharing my adventures on YouTube "[Edwin Friday][youtube]," where I vlog my life.
 
 ### 🚀 Let's Connect
 
